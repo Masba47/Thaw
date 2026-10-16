@@ -1,0 +1,6 @@
+{
+  "name": "Thaw - Socio-Environmental Compliance Tracker",
+  "description": "Transparent socio-environmental compliance tracker for engineering projects on Avalanche. Features cryptographic SHA-256 evidence verification, simulated on-chain ledger, and public community oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
