@@ -68,11 +68,8 @@ Contrato mínimo de registro de compromisos y evidencias, probado con Foundry.
 Despliegue en Avalanche Fuji y conexión del frontend a la red real.
 Onboarding sin wallet para comunidades mediante cuentas abstractas.
 Piloto con un proyecto real junto a una consultora ambiental.
-👤 Equipo
 
-Tomás, ingeniero civil industrial, Santiago, Chile 🇨🇱
 
-<div align="center">
 
 Del permiso a la evidencia. Cada compromiso, a la vista.
 
