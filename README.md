@@ -4,7 +4,7 @@ Cumplimiento ambiental, quedando registrado.
 
 Gestión socioambiental transparente para proyectos de ingeniería, diseñada para Avalanche.
 
-<p> <img src="https://img.shields.io/badge/Avalanche-L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche" /> <img src="https://img.shields.io/badge/Estado-Prototipo-3B82F6?style=for-the-badge" alt="Estado: prototipo" /> <img src="https://img.shields.io/badge/Hecho%20en-Chile-0033A0?style=for-the-badge" alt="Hecho en Chile" /> <img src="https://img.shields.io/badge/Licencia-MIT-22C55E?style=for-the-badge" alt="Licencia MIT" /> </p> <p> <a href="#">🚀 Demo en vivo</a> · <a href="#">🎬 Video</a> · <a href="#">📑 Presentación</a> · <a href="docs/architecture.md">🏗️ Arquitectura</a> </p> </div>
+<p> <img src="https://img.shields.io/badge/Avalanche-L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche" /> <img src="https://img.shields.io/badge/Estado-Prototipo-3B82F6?style=for-the-badge" alt="Estado: prototipo" /> <img src="https://img.shields.io/badge/Hecho%20en-Chile-0033A0?style=for-the-badge" alt="Hecho en Chile" /> <img src="https://img.shields.io/badge/Licencia-MIT-22C55E?style=for-the-badge" alt="Licencia MIT" /> </p> <p> 
 ❄️ ¿Por qué Thaw?
 
 Thaw significa deshielo. Lo que estaba congelado, opaco y disperso entre planillas, correos y PDFs, queda por fin a la vista de todos.
