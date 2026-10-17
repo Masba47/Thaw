@@ -1,4 +1,4 @@
-<div align="center"> <img src="assets/logo.png" alt="Logo de Thaw" width="160"> <h1>Thaw</h1> <h3>Cumplimiento ambiental, quedando registrado.</h3> <p>Gestión socioambiental transparente para proyectos de ingeniería,<br>diseñada para Avalanche.</p> <p> <img src="https://img.shields.io/badge/Avalanche-L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche L1"> <img src="https://img.shields.io/badge/Estado-Prototipo-3B82F6?style=for-the-badge" alt="Estado: prototipo"> <img src="https://img.shields.io/badge/Hecho%20en-Chile-0033A0?style=for-the-badge" alt="Hecho en Chile"> <img src="https://img.shields.io/badge/Licencia-MIT-22C55E?style=for-the-badge" alt="Licencia MIT"> </p> <p> <a href="#-la-idea">La idea</a> · <a href="#-qué-hace">Qué hace</a> · <a href="#-cómo-funciona">Cómo funciona</a> · <a href="#-estado-actual">Estado</a> · <a href="#-hoja-de-ruta">Hoja de ruta</a> </p> </div> <br>
+ <h1>Thaw</h1> <h3>Cumplimiento ambiental, quedando registrado.</h3> <p>Gestión socioambiental transparente para proyectos de ingeniería,<br>diseñada para Avalanche.</p> <p> <img src="https://img.shields.io/badge/Avalanche-L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche L1"> <img src="https://img.shields.io/badge/Estado-Prototipo-3B82F6?style=for-the-badge" alt="Estado: prototipo"> <img src="https://img.shields.io/badge/Hecho%20en-Chile-0033A0?style=for-the-badge" alt="Hecho en Chile"> <img src="https://img.shields.io/badge/Licencia-MIT-22C55E?style=for-the-badge" alt="Licencia MIT">  </div> <br>
 ❄️ ¿Por qué Thaw?
 
 Thaw significa deshielo. Lo que estaba congelado, opaco y disperso entre planillas, correos y PDFs, queda por fin a la vista de todos.
@@ -27,14 +27,14 @@ Titular entrega evidencia
 Huella SHA-256 anclada
 Revisor valida
 Regulador audita
-Comunidad verifica odisputa
+Comunidad verifica o disputa
 🏔️ Por qué Avalanche
 Finalidad rápida y comisiones bajas, lo que hace viable anclar muchas evidencias pequeñas.
 L1 personalizable: reguladores y consultoras podrían operar validadores y definir sus propias reglas de acceso, mientras el público conserva la capacidad de verificar el registro.
 Cuentas abstractas, que permiten una experiencia sin fricción para las comunidades.
 🧪 Estado actual
 
-Prototipo con libro mayor simulado. El cálculo de huellas SHA-256 y la verificación de archivos son reales. El anclaje en cadena está simulado dentro de la aplicación.
+Prototipo con datos simulados. El anclaje en cadena está simulado dentro de la aplicación.
 
 ✅ Flujo completo de compromisos, evidencias y validación
 ✅ Verificación de integridad por huella
@@ -47,15 +47,6 @@ Prototipo creado en Google AI Studio. Arquitectura objetivo:
 
 Solidity · Foundry · TypeScript · React · Next.js · wagmi · viem · PostgreSQL · Account Abstraction · Avalanche L1
 
-🗂️ Estructura del repositorio
-text
-Thaw/
-├── README.md
-├── assets/       logo e imágenes
-├── docs/         arquitectura y diagramas
-├── prototype/    código del prototipo
-├── contracts/    contratos inteligentes
-└── LICENSE
 🧭 Hoja de ruta
 Contrato mínimo de registro de compromisos y evidencias, probado con Foundry.
 Despliegue en Avalanche Fuji y conexión del frontend a la red real.
