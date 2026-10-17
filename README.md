@@ -1,5 +1,5 @@
 <div align="center">
-❄️ Thaw
+# ❄️ Thaw
 Cumplimiento ambiental, quedando registrado
 
 Gestión socioambiental transparente para proyectos de ingeniería, diseñada para Avalanche.
@@ -8,7 +8,7 @@ Gestión socioambiental transparente para proyectos de ingeniería, diseñada pa
 
 ¿Por qué Thaw? · Qué hace · Cómo funciona · Estado actual · Hoja de ruta
 
-</div>
+</div>	
 ❄️ ¿Por qué Thaw?
 
 Thaw significa deshielo. Lo que estaba congelado, opaco y disperso entre planillas, correos y PDFs queda por fin a la vista de todos.
