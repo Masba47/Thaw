@@ -4,7 +4,7 @@
 <p>Gestión socioambiental transparente para proyectos de ingeniería,<br>diseñada para Avalanche.</p>
 <p>
 <img src="https://img.shields.io/badge/Avalanche-L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche L1">
-<img src="https://img.shields.io/badge/Estado-Prototipo-3B82F6?style=for-the-badge" alt="Estado: prototipo">
+<img src="https://img.shields.io/badge/Estado-Idea-3B82F6?style=for-the-badge" alt="Estado: prototipo">
 <img src="https://img.shields.io/badge/Hecho%20en-Chile-0033A0?style=for-the-badge" alt="Hecho en Chile">
 <img src="https://img.shields.io/badge/Licencia-MIT-22C55E?style=for-the-badge" alt="Licencia MIT">
 </p>
