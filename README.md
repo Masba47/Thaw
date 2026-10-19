@@ -16,7 +16,7 @@
 <a href="#hoja-de-ruta">Hoja de ruta</a>
 </p>
 </div>
-
+<img src="main panel.png" alt="Main Panel">
 <hr>
 
 <h2 id="por-que-thaw">❄️ ¿Por qué Thaw?</h2>
